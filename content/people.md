@@ -38,20 +38,11 @@ Besides developing molecular and computational tools for malaria research, Pablo
 
 ### Matthew Thomas Flavin
 
-&nbsp;
+Matthew Flavin received his BS in Electrical Engineering from the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign in 2015. He is currently a graduate student in the department of Electrical Engineering and Computer Science at MIT and is working as a research assistant in the Micro/Nanofludic BioMEMS group at RLE.
+ 
+Matthew has developed core skills in mathematical modelling with tools such as COMSOL. Over the course of his studies, he has applied these tools to a wide range of physical problems relevant to microfluidics and biophysical transport.
 
 &nbsp;
-
-&nbsp;
-
-...
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 
 ![Itai Photo](/img/Itai_Levin.jpg#leftcircle)
 
@@ -108,19 +99,16 @@ Itai is a PhD student in the biological engineering department. He is currently 
 
 ### Eric Michael Wynne
 
-&nbsp;
+Eric is a PhD student in Jongyoon Han’s lab in the EECS department. His research is focused on using microfluidics to build electrokinetic concentration devices for use in pharmaceutical manufacturing. He graduated from the University of Illinois at Urbana-Champaign in 2019 with a degree in Engineering Physics. Outside of the lab his interests include music (listening and playing), Animal Crossing, and cooking.
 
 &nbsp;
 
-&nbsp;
+![Maxine Photo](/img/Maxine_Jonas.png#leftcircle)
 
-...
+### Maxine Jonas
 
-&nbsp;
+Dr. Maxine Jonas is an instructor in the Department of Biological Engineering, and one of its alumnae. After undergraduate studies at École Polytechnique in France, Maxine completed in 2006 her PhD in BE under the mentorship of Prof. Peter So. She then embarked on working in the biotech industry in the Boston area, both in start-up and in large company environments, for seven years prior to returning to MIT campus. Maxine’s interests include biological imaging, biophysics, neurotechnology, computational modeling, drug metabolism, and education. She currently teaches lab-focused courses (20.109, 20.203, 20.309, 20.345), lecture-instructed classes (20.310, 20.430), and seminars (SP.247). Outside of troubleshooting mutagenesis plasmids or realigning students’ microscopes, Maxine loves theater plays, in books or live, daydreaming in museums, and loves water: swimming, sailing, riding her bike in the rain, skiing on the northeastern ha’d-packed or in the spring slush, skydiving through clouds, and drinking bubbly water.
 
-&nbsp;
-
-&nbsp;
 
 ## Staff
 
@@ -133,8 +121,3 @@ Prerna graduated from Brandeis University with a dual degree in biology and lega
 
 &nbsp;
 
-![Maxine Photo](/img/Maxine_Jonas.png#leftcircle)
-
-### Maxine Jonas
-
-Dr. Maxine Jonas is an instructor in the Department of Biological Engineering, and one of its alumnae. After undergraduate studies at École Polytechnique in France, Maxine completed in 2006 her PhD in BE under the mentorship of Prof. Peter So. She then embarked on working in the biotech industry in the Boston area, both in start-up and in large company environments, for seven years prior to returning to MIT campus. Maxine’s interests include biological imaging, biophysics, neurotechnology, computational modeling, drug metabolism, and education. She currently teaches lab-focused courses (20.109, 20.203, 20.309, 20.345), lecture-instructed classes (20.310, 20.430), and seminars (SP.247). Outside of troubleshooting mutagenesis plasmids or realigning students’ microscopes, Maxine loves theater plays, in books or live, daydreaming in museums, and loves water: swimming, sailing, riding her bike in the rain, skiing on the northeastern ha’d-packed or in the spring slush, skydiving through clouds, and drinking bubbly water.
