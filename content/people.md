@@ -44,6 +44,14 @@ Matthew has developed core skills in mathematical modelling with tools such as C
 
 &nbsp;
 
+![Maxine Photo](/img/Maxine_Jonas.png#leftcircle)
+
+### Maxine Jonas
+
+Dr. Maxine Jonas is an instructor in the Department of Biological Engineering, and one of its alumnae. After undergraduate studies at École Polytechnique in France, Maxine completed in 2006 her PhD in BE under the mentorship of Prof. Peter So. She then embarked on working in the biotech industry in the Boston area, both in start-up and in large company environments, for seven years prior to returning to MIT campus. Maxine’s interests include biological imaging, biophysics, neurotechnology, computational modeling, drug metabolism, and education. She currently teaches lab-focused courses (20.109, 20.203, 20.309, 20.345), lecture-instructed classes (20.310, 20.430), and seminars (SP.247). Outside of troubleshooting mutagenesis plasmids or realigning students’ microscopes, Maxine loves theater plays, in books or live, daydreaming in museums, and loves water: swimming, sailing, riding her bike in the rain, skiing on the northeastern ha’d-packed or in the spring slush, skydiving through clouds, and drinking bubbly water.
+
+&nbsp;
+
 ![Itai Photo](/img/Itai_Levin.jpg#leftcircle)
 
 ### Itai Levin
@@ -54,25 +62,14 @@ Itai is a PhD student in the biological engineering department. He is currently 
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
 
 ![Josh Photo](/img/Josh_Peters.jpg#leftcircle)
 
 ### Josh Peters
 
-&nbsp;
+Josh is a co-advised Biological Engineering graduate student in the Bryson and Blainey labs. Hailing from a rural area of New Jersey, he graduated from the University of Pittsburgh with a chemical engineering degree. After spending a summer giving tours at the most awarded craft distillery in America, he stopped investigating cocktail recipes, and began investigating the recipe for infection by the bacteria Mycobacterium tuberculosis. In a Stranger Things-esque biohazard suit, he measures how cells express and regulate their genes to uncover cues in an effort to understand the tug-of-war between the host and the pathogen.
 
-&nbsp;
-
-...
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+Beyond pipetting, he writes professionally for Massive Science, a science media company, on a variety of topics like cancer evolution, single-cell sequencing, exotic animal genomics, philanthropy in science, and more. His pieces have been syndicated in Quartz, Salon, and Pacific Standard. Intramural sports teams like football, dodgeball, volleyball, and cricket makes up the rest of his time.
 
 &nbsp;
 
@@ -81,17 +78,7 @@ Itai is a PhD student in the biological engineering department. He is currently 
 
 ### Divya Ramamoorthy
 
-&nbsp;
-
-&nbsp;
-
-...
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+Divya is a BE PhD student in Ernest Fraenkel’s lab. She grew up in Austin, Texas, where she earned a B.S in Biomedical Engineering and a B.A. in Plan II (Liberal Arts) from the University of Texas at Austin, and cultivated a deep love for tacos. As a NSF Graduate Research Fellow at MIT, Divya develops computational tools to study mechanisms of neurodegenerative diseases. Outside of lab, she likes obsessing over colors, trying to learn the guitar off of YouTube, and designing K-12 STEM outreach activities.
 
 &nbsp;
 
@@ -102,12 +89,6 @@ Itai is a PhD student in the biological engineering department. He is currently 
 Eric is a PhD student in Jongyoon Han’s lab in the EECS department. His research is focused on using microfluidics to build electrokinetic concentration devices for use in pharmaceutical manufacturing. He graduated from the University of Illinois at Urbana-Champaign in 2019 with a degree in Engineering Physics. Outside of the lab his interests include music (listening and playing), Animal Crossing, and cooking.
 
 &nbsp;
-
-![Maxine Photo](/img/Maxine_Jonas.png#leftcircle)
-
-### Maxine Jonas
-
-Dr. Maxine Jonas is an instructor in the Department of Biological Engineering, and one of its alumnae. After undergraduate studies at École Polytechnique in France, Maxine completed in 2006 her PhD in BE under the mentorship of Prof. Peter So. She then embarked on working in the biotech industry in the Boston area, both in start-up and in large company environments, for seven years prior to returning to MIT campus. Maxine’s interests include biological imaging, biophysics, neurotechnology, computational modeling, drug metabolism, and education. She currently teaches lab-focused courses (20.109, 20.203, 20.309, 20.345), lecture-instructed classes (20.310, 20.430), and seminars (SP.247). Outside of troubleshooting mutagenesis plasmids or realigning students’ microscopes, Maxine loves theater plays, in books or live, daydreaming in museums, and loves water: swimming, sailing, riding her bike in the rain, skiing on the northeastern ha’d-packed or in the spring slush, skydiving through clouds, and drinking bubbly water.
 
 
 ## Staff
