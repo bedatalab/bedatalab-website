@@ -19,6 +19,6 @@ We believe that learning how to code is really hard. And really the only way to 
 One day, we hope to create a resource that can help all students learn how to work with the data they will see in their discipline. We want to train students to generate reproducible and ethical data for the betterment of science and society.
 
 ### Have you officially launched?
-Not yet - we are currently in a pilot phase, learning where our department needs the most support and how we can do so. After our pilot, we hope to do a full launch in Fall 2020 and support coding, statistics, and software learning.
+Yes! - we ran a pilot phase in the spring of 2020, and have now fully launched as of Fall 2020 to support coding, statistics, and computational tools.
 
 ## More questions?
