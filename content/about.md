@@ -8,7 +8,7 @@ draft: true
 &nbsp;
 
 Inspired by the [BE Comm Lab](https://mitcommlab.mit.edu/be/)'s mode of operation,
-we provide on-demand, discipline-specific, 1-1 coaching to help students and
+we provide on-demand, discipline-specific, one-on-one coaching to help students and
 researchers plan and carry out computational projects.
 
 ### We provide support for the following specific languages and frameworks:
@@ -29,3 +29,5 @@ researchers plan and carry out computational projects.
 - 20.440 - Analysis of Biological Networks
 
 Check out our [Q&A](/qanda) for more information on what we do.
+
+Interested in contributing or have a suggestion? Reach out to [Prerna Bhargava](mailto:bhargavp@mit.edu).
