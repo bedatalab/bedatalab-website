@@ -16,10 +16,10 @@ researchers plan and carry out computational projects.
 - Python (numpy, pandas, sklearn, ...)
 - R - (RNAseq data analysis)
 - MATLAB
-- COMSOL
 - Git (through GitHub)
 - Bash/UNIX
 - Java
+- COMSOL (through external members)
 
 ### We also provide support for the following courses:
 
