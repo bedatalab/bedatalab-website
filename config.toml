@@ -1,4 +1,4 @@
-baseURL = "https://bedatalab.github.io/"
+baseURL = "/"
 languageCode = "en-us"
 title = "BE Data Lab"
 theme = "hugo-theme-nix"
