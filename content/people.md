@@ -54,7 +54,7 @@ Jackie is a third year PhD student in the lab of Jim Collins. She works on compu
 
 ### Krista Pullen
 
-After spending her childhood running around rural Connecticut, Krista studied applied mathematics and biology/bioengineering at Stony Brook University. While her undergraduate research focused on the biomechanics of walking gait, her systems biology courses inspired her to take a dive into molecular and pathway biology. She was a research technician at Tufts, studying the stress response of mycobacteria, before she started her BE PhD journey in 2018. As a member of the Lauffenburger lab, Krista spends a lot of time thinking (& coding!) about how to identify immune correlates of infectious disease by applying systems serology and machine learning to pre-clinical and clinical vaccine data across various species. When away from her desk, Krista loves to spend time running, cooking and adoring the many cute dogs of Cambridge.
+Krista is a third year PhD student in the Lauffenburger lab. After spending her childhood running around rural Connecticut, Krista studied applied mathematics and biology at Stony Brook University. While her undergraduate research focused on the biomechanics of walking gait, her systems biology courses inspired her to take a dive into molecular and pathway biology. As a member of the Lauffenburger lab, Krista spends a lot of time thinking (& coding!) about how to identify immune correlates of infectious disease by applying systems serology and machine learning to pre-clinical and clinical vaccine trial data across various species. When away from her desk, Krista loves to spend time running, cooking and adoring her cat, Monte.
 
 &nbsp;
 
