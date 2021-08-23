@@ -12,27 +12,32 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+        slug: "{{name}}"
       - file: "content/qanda.md"
         label: "Q & A Page"
         name: "qanda"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+        slug: "{{name}}"
       - file: "content/resources.md"
         label: "Resources Page"
         name: "resources"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+        slug: "{{name}}"
       - file: "content/appointments.md"
         label: "Appointments Page"
         name: "appointments"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+        slug: "{{name}}"
       - file: "content/people.md"
         label: "People Page"
         name: "people"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+        slug: "{{name}}"
