@@ -6,38 +6,33 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/about.md"
+      - file: "content/about.md"
         label: "About Page"
         name: "about"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-        slug: "{{name}}"
-      - file: "site/content/qanda.md"
+      - file: "content/qanda.md"
         label: "Q & A Page"
         name: "qanda"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-        slug: "{{name}}"
-      - file: "site/content/resources.md"
+      - file: "content/resources.md"
         label: "Resources Page"
         name: "resources"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-        slug: "{{name}}"
-      - file: "site/content/appointments.md"
+      - file: "content/appointments.md"
         label: "Appointments Page"
         name: "appointments"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-        slug: "{{name}}"
-      - file: "site/content/people.md"
+      - file: "content/people.md"
         label: "People Page"
         name: "people"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-        slug: "{{name}}"
