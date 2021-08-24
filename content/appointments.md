@@ -1,6 +1,6 @@
 ---
 title: "Schedule an appointment"
-draft: true
+draft: false
 ---
 
 &nbsp;

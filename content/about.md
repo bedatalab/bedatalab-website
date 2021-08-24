@@ -1,6 +1,6 @@
 ---
 title: About
-draft: true
+draft: false
 ---
 ## The MIT BE Data Lab provides peer coaching on data analysis and coding for life sciences researchers and students at MIT.
 
