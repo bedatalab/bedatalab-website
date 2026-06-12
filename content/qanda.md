@@ -3,6 +3,8 @@ title: "Q & A"
 draft: false
 ---
 
+### This page is not currently maintained!
+
 ### What do you support?
 We can help you in two broad areas. 1) To understand classwork and get through problem sets. We know that learning coding syntax and problem solving is not easy and while we will not give you all the answers, we hope to provide additional guidance. 2) We will provide brainstorming support for the code you are working on - what are ways to use computation to inform your experimental design, what is an efficient way to analyze data,  what processes are used for high-throughput 'omics analyses. We also hope to identify where we might be most useful in future initiatives. Don't hesitate to reach out and ask if we can help with something you are working on.
 
@@ -22,4 +24,4 @@ One day, we hope to create a resource that can help all students learn how to co
 Yes! - we ran a pilot phase in the spring of 2020, and have now fully launched as of Fall 2020 to support coding, statistics, and computational tools.
 
 ## More questions?
-Email [Prerna Bhargava](mailto:bhargavp@mit.edu)
+<!--Email [Prerna Bhargava](mailto:bhargavp@mit.edu)-->
